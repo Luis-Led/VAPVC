@@ -422,6 +422,29 @@ margin-bottom: 0%;
         width: 90%;
 
     }
+    /* Footer responsivo */
+    .contenedor-footer {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .content-foo {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .content-foo h4 {
+        font-size: 18px;
+    }
+
+    .content-foo p {
+        font-size: 14px;
+    }
+
+    .img1 {
+        width: 80px;
+    }
 
 
 }
